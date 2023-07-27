@@ -16,7 +16,6 @@
                 "Program",
                 "Phone Number",
                 "Preferred Contact Method"
-
             ]
         },
         {
@@ -37,7 +36,14 @@
                 "Images",
                 "Issue Source",
                 "Associated files"
-
+            ]
+        },
+        {
+            "displayname": "Escalation",
+            "fields": [
+                "Escalated To",
+                "Escalated By",
+                "Escalation Date"
             ]
         },
         {
@@ -46,12 +52,7 @@
                 "Assigned To",
                 "Resolved",
                 "Resolved By",
-                "Resolution Details",
-                "Escalated To",
-                "Escalated By",
-                "Escalation Date"
-                
-                
+                "Resolution Details"
             ]
         }
     ]
