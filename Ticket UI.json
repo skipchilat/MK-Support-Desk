@@ -1,0 +1,58 @@
+{
+    "sections": [
+        {
+            "displayname": "Basic Information",
+            "fields": [
+                "Case Title",
+                "Status",
+                "Date Reported"
+            ]
+        },
+        {
+            "displayname": "Customer Details",
+            "fields": [
+                "Customer",
+                "Contact Person Name",
+                "Program",
+                "Phone Number",
+                "Preferred Contact Method"
+
+            ]
+        },
+        {
+            "displayname": "Status",
+            "fields": [
+                "Priority",
+                "Escalated",
+                "Issue Type",
+                "Issue Logged By",
+                "Parent Case"
+            ]
+        },
+        {
+            "displayname": "Details",
+            "fields": [
+                "Issue Description",
+                "Category",
+                "Images",
+                "Issue Source",
+                "Associated files"
+
+            ]
+        },
+        {
+            "displayname": "Resolution",
+            "fields": [
+                "Assigned To",
+                "Resolved",
+                "Resolved By",
+                "Resolution Details",
+                "Escalated To",
+                "Escalated By",
+                "Escalation Date"
+                
+                
+            ]
+        }
+    ]
+}
